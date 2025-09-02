@@ -1,6 +1,6 @@
 # 🛒 Ekart Web Component
 
-> A modern, responsive e-commerce web application built with React.js, featuring a clean UI and seamless shopping experience.
+> A modern, responsive e-commerce web component built with React.js, featuring a clean UI and seamless shopping experience.
 
 ## 🌟 Features
 
@@ -57,27 +57,6 @@ Make sure you have the following installed:
 5. **Open your browser**
    Navigate to `http://localhost:3000` to view the application
 
-## 🛠️ Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-- Runs the app in development mode
-- Open [http://localhost:3000](http://localhost:3000) to view it in the browser
-- The page will reload if you make edits
-
-### `npm test`
-- Launches the test runner in interactive watch mode
-- Run unit tests and integration tests
-
-### `npm run build`
-- Builds the app for production to the `build` folder
-- Optimizes the build for best performance
-- The build is minified and filenames include hashes
-
-### `npm run eject`
-- **Note: this is a one-way operation. Once you `eject`, you can't go back!**
-- Removes the single build dependency from your project
 
 ## 📁 Project Structure
 
